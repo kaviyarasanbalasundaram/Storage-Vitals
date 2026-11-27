@@ -29,7 +29,7 @@ StorageVitals is a local, Windows-based toolkit for inspecting external storage.
 
 ## Technical Documentation
 
-📄 [View Storage Vitals – Professional Documentation](Storage%20Vitals%20Professional%20Documentation.pdf)
+📄[View StorageVitals Professional Documentation](StorageVitals_Documentation.pdf)
 Covers architecture, workflows, data handling, testing approach, and the technical challenge and response register for all three applications.
 
 ## Important Notes
