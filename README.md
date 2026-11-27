@@ -27,6 +27,11 @@ StorageVitals is a local, Windows-based toolkit for inspecting external storage.
 - `smartctl` from [smartmontools](https://www.smartmontools.org/) (SMART access and surface scans require an elevated terminal)
 - WSL Ubuntu with FastFileCheck (Scanning Tool, BLAKE3 hashing only)
 
+## Technical Documentation
+
+📄 *[View Storage Vitals Professional Documentation Technical Documentation [pdf](Storage Vitals Professional Documentation.pdf)*
+Covers architecture, workflows, data handling, testing approach, and the technical challenge and response register for all three applications.
+
 ## Important Notes
 
 - Quick scan is metadata-assisted and is **not** a full content reread. Use a Full scan for complete content verification.
